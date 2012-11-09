@@ -1,4 +1,4 @@
-4f28452138e55d8dca73320043b86063 *DESCRIPTION
+c9138299e80f0f79d5eb61a5aacc267d *DESCRIPTION
 9fdfeb11f7ddba6f3aab9aaa6b1ac5dd *NAMESPACE
 6874484e26b3b47f912a77b23b082164 *R/chkdata.R
 ecc5eeb60ee83679dcf1fd77074693fa *R/h_cor.R
@@ -8,7 +8,7 @@ ba474f03d6c21c0ec9b8d9874974125c *R/ir.R
 e44b053f13721b2f5dd228cef33aad4a *R/mlh.R
 57fc9a4930ac5df628d1493a6b910f63 *R/sh.R
 affe86b2507e8e437771d10e5d499ffd *inst/doc/Rhh_manual_1.0.1.pdf
-f26f72195d2b994d4aca5c08743b42c2 *man/Rhh-package.Rd
+5f1bb175f165ed11554df0c5bf2a159e *man/Rhh-package.Rd
 d16be864b2dfecd8ba44308259ce98b2 *man/chkdata.Rd
 f23421c3c4c6f7bbdfc232a5529ca52e *man/h_cor.Rd
 2ffbe02d7e2dc8e86ac72db600236f08 *man/hh.Rd

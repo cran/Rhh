@@ -29,7 +29,7 @@ sample of heterozygosity-heterozygosity correlations.
 \author{
 Jussi Alho, Kaisa Välimäki
 
-Maintainer: Jussi Alho \email{firstname.lastname@helsinki.fi}
+Maintainer: Jussi Alho \email{jussi.s.alho@iki.fi}
 
 \url{http://www.helsinki.fi/biosci/egru/research/software}
 }
